@@ -2,6 +2,7 @@
 - Author of my profile image: [moshimoshibe](https://www.instagram.com/moshimoshibe/).
 - 🌱 I’m currently learning coding.
 - 18 y.o
+https://github-readme-stats.faskin.vercel.app/
 
 <!--
 **Faskin/Faskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
