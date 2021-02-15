@@ -4,7 +4,7 @@
 - 18 y.o
 
 
-![Faskin's GitHub stats](https://github-readme-stats.faskin.vercel.app/api?username=Faskin&show_icons=true&theme=radical)
+![Faskin's GitHub stats](https://github-readme-stats.faskin.vercel.app/api?username=Faskin&show_icons=true&theme=synthwave)
 
 <!--
 **Faskin/Faskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
