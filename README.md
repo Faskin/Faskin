@@ -1,6 +1,7 @@
 ### Hello there!👋
 - Author of my profile image: [moshimoshibe](https://www.instagram.com/moshimoshibe/).
-
+- 🌱 I’m currently learning coding.
+- 18 y.o
 
 <!--
 **Faskin/Faskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
