@@ -5,7 +5,7 @@
 
 
 ![Faskin's GitHub stats](https://github-readme-stats.faskin.vercel.app/api?username=Faskin&show_icons=true&theme=synthwave)
-[![Spotify](https://Faskin.vercel.app/api/spotify)](https://open.spotify.com/user/Faskin)
+[![Spotify](https://spotify.faskin.vercel.app/api/spotify)](https://open.spotify.com/user/Faskin)
 
 <!--
 **Faskin/Faskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
