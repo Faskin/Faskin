@@ -6,6 +6,7 @@
 
 ![Faskin's GitHub stats](https://github-readme-stats.faskin.vercel.app/api?username=Faskin&show_icons=true&theme=synthwave)
 
+### Spotify playing🎶
 [![Spotify](https://novatorem.faskin.vercel.app/api/spotify)](https://open.spotify.com/user/Faskin)
 
 <!--
